@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: 产品
+  url: /products/
+  excerpt: "产品列表"
+  image: lock-400x250.jpg
+
+- title: 案例
+  url: /cases/
+  excerpt: "合作案例"
+  image: lock-400x250.jpg
+
+- title: 理念
+  url: /ideas/
+  excerpt: "公司理念"
+  image: lock-400x250.jpg
+
+- title: 关于
+  url: /about/
+  excerpt: "关于我们"
+  image: lock-400x250.jpg

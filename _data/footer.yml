@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: 主页
+  url: /
+
+- title: 产品
+  url: /products/
+
+- title: 关于
+  url: /about/
+
+- title: 条款
+  url: /terms/

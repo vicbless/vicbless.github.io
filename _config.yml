@@ -1,0 +1,38 @@
+# Site wide configuration
+
+title: Vicbless微莱斯
+description: "网络营销综合服务提供商."
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: http://localhost:4000
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: Vicbless微莱斯
+  web: http://zhushuang.cc
+  email: memorycancel@gmail.com
+  twitter: memorycancel
+  bio: "网络营销综合服务提供商."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: 
+    ad-client: 
+    ad-slot: 
+  disqus-shortname: memorycancel
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
