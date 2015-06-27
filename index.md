@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">营销优势</h2>
-  <p class="post-excerpt">在消费者中赢得更多的关注；2.广告传递的信息更容易被消费者相信；3.消费者更加认同广告产品。 </p>
+  <p class="post-excerpt">1.在消费者中赢得更多的关注；2.广告传递的信息更容易被消费者相信；3.消费者更加认同广告产品。 </p>
 </div><!-- /.tile -->
 
 <div class="tile">
