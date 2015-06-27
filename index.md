@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">服务介绍</h2>
-  <p class="post-excerpt">1.微博、微信运营维护；2、项目创意策划与执行；3、网络营销及品牌推广；4、热门红人账号（KOL）；5、“UID”精准投放；6、BBS新闻稿投放；7、APP应用与微信功能开发；8、舆情监控、危机公关管理；9、基于新浪微博的大数据分析服务。</p>
+  <p class="post-excerpt">1.微博、微信运营维护；2.项目创意策划与执行；3.网络营销及品牌推广；4.热门红人账号（KOL）；5.“UID”精准投放；6.BBS新闻稿投放；7.APP应用与微信功能开发；8.舆情监控、危机公关管理；9.基于新浪微博的大数据分析服务。</p>
   <!--
   <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
   -->
